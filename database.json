@@ -1,0 +1,46 @@
+{
+    "profils":[
+        {
+            "id":1, 
+            "nom":"Assani Beni", 
+            "postnom":"Muhema", 
+            "prenom":"Randy",
+            "surnom":"RM",
+            "photoProfil": "dist/img/rm_tof.jpg",
+            "alt":"randy muhema picture",
+            "biographie":
+            "I'm Analyst Designer with a Computer Science degree and experience on computer engineering, software development & graphic design. I am always developing my skills and learning something new. I have a thirst for knowledge and a desire to understand how things work; I'm a people person, a tinkerer, a lover of technology/science.",
+            "gitHubLink":"https://github.com/Randy-RM",
+            "linkedInLink":"https://www.linkedin.com/in/randy-assani-ab101216b/"
+        }
+    ],
+    "works":[
+        {
+            "id":1,
+            "title":"Gouvernix",
+            "content":
+            "Vitrine numérique de gouvernance participative",
+            "projectPicture": "../dist/img_project/gouvernix_full_generic_laptop.jpg",
+            "alt":"image site gouvernix",
+            "projectLink":"http://gouvernix.com/"
+        },
+        {
+            "id":2,
+            "title":"HotelHero",
+            "content":
+            "Application de gestion d'hôtel",
+            "projectPicture": "../dist/img_project/kda_full_generic_laptop.jpg",
+            "alt":"image application HotelHero",
+            "projectLink":"#"
+        },
+        {
+            "id":3,
+            "title":"Halo-eng",
+            "content":
+            "Site de présentation de l'entreprise",
+            "projectPicture": "../dist/img_project/halo_eng_full_generic_laptop.jpg",
+            "alt":"image site halo-eng",
+            "projectLink":"https://halo-eng.com/"
+        }
+    ]
+}
