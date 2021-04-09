@@ -2,7 +2,7 @@ window.onload = function () {
 
     let blocWorkList = document.querySelector("#blocWorkList");
 
-    fetch("http://localhost:3000/works")
+    fetch("https://my-json-server.typicode.com/Randy-RM/portfolio/works")
         .then(function (response) {
             return response.json();
         })

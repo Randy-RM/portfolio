@@ -3,7 +3,7 @@ window.onload = function () {
     let aboutMe = document.querySelector("#aboutMe");
     let blocProfilPicture = document.querySelector("#blocProfilPicture");
 
-    fetch("https://randy-rm.github.io/data-base-json/database.json")
+    fetch("https://my-json-server.typicode.com/Randy-RM/portfolio/profils")
         .then(function (response) {
             return response.json();
         })
