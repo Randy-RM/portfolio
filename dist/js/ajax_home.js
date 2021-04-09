@@ -3,7 +3,7 @@ window.onload = function () {
     let aboutMe = document.querySelector("#aboutMe");
     let blocProfilPicture = document.querySelector("#blocProfilPicture");
 
-    fetch("http://localhost:3000/profils")
+    fetch("https://randy-rm.github.io/portfolio/database.json")
         .then(function (response) {
             return response.json();
         })
