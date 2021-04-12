@@ -71,10 +71,6 @@ h1 {
   display: block;
 }
 
-.logo {
-  width: 70%;
-}
-
 .hero {
   padding: 10vh 0;
   background-color: #5F7470;
@@ -195,6 +191,10 @@ h1 {
 .link-dark-decored:hover, .link-dark-decored:focus {
   color: #bcc0b1;
   background-color: #3d4a47;
+}
+
+.logo {
+  width: 70%;
 }
 
 .image-logo-marque {
